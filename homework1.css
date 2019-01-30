@@ -1,0 +1,138 @@
+*{
+  line-height: normal;
+  font-family: Roboto, Arial, sans-serif;
+}
+
+html{
+  background-image: url(http://baby-mama58.ru/thumbs/2016/himalaya_mountains_4k-t2.jpg);
+  background-repeat:no-repeat;
+  background-size:cover;
+  font-size: 17px;
+  font-family: Roboto, Arial, sans-serif;
+  width: 1500px;
+  height: 2500px;
+
+}
+.logoblock{
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 30px;
+}
+.logo{
+  display: flex;
+  font-size: 3rem;
+}
+.all{
+  background-color:white;
+  padding: 20px;
+  margin:20px;
+}
+.Section{
+display: flex;
+flex-flow: column;
+list-style-type: none;
+margin: 70px;
+font-size: 25px;
+color: gray;
+
+
+}
+li{
+  margin-bottom: 40px;
+
+}
+
+.titlevideo{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 20px;
+  margin-left:-80px;
+  font-size: 28px;
+}
+.viewsvideo{
+  margin-top: -15px;
+}
+.sectionvideo{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  align-content: center;
+}
+.video{
+  margin: 240px;
+  margin-top: -450px;
+}
+.aboutsection{
+  margin: 650px;
+  margin-top: -200px;
+  border: solid;
+  border-radius: 10px;
+  border-width:medium;
+  border-color: gray;
+  width: 70px;
+}
+.comments{
+  font-size: 30px;
+  margin: 270px;
+  margin-top: -600px;
+
+}
+.owner{
+  margin: 250px;
+  margin-top: -250px;
+}
+.Button2{
+  background-color: red;
+  border-radius: 20px;
+
+}
+
+#home{
+  display: flex;
+  text-decoration: none;}
+  .PrettyNona{
+    background-color: #EFF1F1;
+    border: #EFF1F1;
+    border-radius: 9px;
+  }
+
+  .PhilippCross{
+    border: white;
+    border-radius: 9px;
+  }
+  .MyriamDuran{
+      background-color: #EFF1F1;
+      border: #EFF1F1;
+      border-radius: 9px;
+  }
+  .Search{
+  width: 800px;
+  height: 50px;
+  border-radius: 20px;
+  }
+ .tab{
+   font-size: 20px;
+   color: gray;
+ }
+.Button3{
+  margin-left: 305px;
+  border-radius: 20px;
+}
+.Button4{
+  border-radius: 20px;
+}
+.views{
+  border-radius: 20px;
+}
+#numberviews{
+  border-bottom: 5px solid #3CB371;
+}
+.PrettyNona{
+  border-left: 9px solid #3CB371;
+}
+[type="image"]{
+  border-radius: 50%;
+}
